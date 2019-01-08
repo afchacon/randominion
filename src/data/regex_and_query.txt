@@ -1,0 +1,3 @@
+/\|\s{0,1}(cost\s{0,1}=\s{0,1}(\dP?)|cost2\s{0,1}=\s{0,1}(\d))\s?\\n/
+
+http://wiki.dominionstrategy.com/api.php?action=query&prop=revisions&rvprop=content&format=json&titles=Cellar&rvsection=0
